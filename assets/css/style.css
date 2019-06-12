@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Quicksand:300,400,500,700&display=swap&subset=latin-ext,vietnamese');
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Courgette', cursive; */
+    font-size: 20px;
+}
+
+.slide{
+    margin-top: 50px;
+}
+
+.cnt{
+    width: 90%;
+    margin: auto;
+}
+
+.display-4{
+    font-family: 'Courgette', cursive;
+}
+
+#detail{
+    text-align: center;
+}
+
+form h4{
+    margin-top: 20px;
+}
+
+form .form-row{
+    width: 80%;
+    border-width:5px;
+    margin:auto;
+    margin-top: 25px;
+}
+
+form.form-edt{
+    border: 2px solid gray;
+    width: 90%;
+    margin:auto;
+}
+
+.btn.btn-primary.btnred{
+    margin-bottom: 20px;
+}
+.btn.btn-primary.btnred:hover{
+    background-color: red;
+    border: none;
+}
+
+.row{
+    width: 90%; 
+    margin: auto;
+}
+
+.imgedt{
+    margin-bottom: 30px;
+}
+
+
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    background-color: gray;
+}
